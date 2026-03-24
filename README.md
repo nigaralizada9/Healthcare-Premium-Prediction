@@ -2,6 +2,7 @@
 Health Insurance Prediction Project
 # 🏥 Healthcare Premium Prediction
 
+Project link : https://nigaralizada9-healthcare-premium-prediction-main-l0njgr.streamlit.app/
 
 
 This project represents how I approach machine learning beyond notebooks — focusing on **building usable, interactive, and deployment-ready systems**.
